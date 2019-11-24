@@ -1,5 +1,5 @@
 {
-  "main.css": "/dg-putting/static/css/main.5fd9a30d.chunk.css",
+  "main.css": "/dg-putting/static/css/main.5bf47eba.chunk.css",
   "main.js": "/dg-putting/static/js/main.71a7b1ed.chunk.js",
   "main.js.map": "/dg-putting/static/js/main.71a7b1ed.chunk.js.map",
   "runtime~main.js": "/dg-putting/static/js/runtime~main.4b6eae0d.js",
@@ -8,10 +8,10 @@
   "static/js/2.3c051313.chunk.js": "/dg-putting/static/js/2.3c051313.chunk.js",
   "static/js/2.3c051313.chunk.js.map": "/dg-putting/static/js/2.3c051313.chunk.js.map",
   "index.html": "/dg-putting/index.html",
-  "precache-manifest.08cb94db1a2fbc8bf1f8289d84eb79f6.js": "/dg-putting/precache-manifest.08cb94db1a2fbc8bf1f8289d84eb79f6.js",
+  "precache-manifest.d51649c1d76ea3127afff4d11ad72ea9.js": "/dg-putting/precache-manifest.d51649c1d76ea3127afff4d11ad72ea9.js",
   "service-worker.js": "/dg-putting/service-worker.js",
   "static/css/2.ba97c6dd.chunk.css.map": "/dg-putting/static/css/2.ba97c6dd.chunk.css.map",
-  "static/css/main.5fd9a30d.chunk.css.map": "/dg-putting/static/css/main.5fd9a30d.chunk.css.map",
+  "static/css/main.5bf47eba.chunk.css.map": "/dg-putting/static/css/main.5bf47eba.chunk.css.map",
   "static/media/icons.svg": "/dg-putting/static/media/icons.38b9c6cd.svg",
   "static/media/index.css": "/dg-putting/static/media/roboto-latin-900italic.bc833e72.woff"
 }
